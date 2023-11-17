@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="#379CEC"
+    android:orientation="vertical"
+    tools:context=".Locations">
+
+    <TextView
+        android:id="@+id/textView_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pick a Location"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="25dp"/>
+
+    <TextView
+        android:id="@+id/textView_east"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="East Rand Mall"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="25dp"/>
+
+    <TextView
+        android:id="@+id/textView_greenstone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Greenstone"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="25dp"/>
+
+    <TextView
+        android:id="@+id/textView_rosebank"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rosebank"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="25dp"/>
+
+
+
+</LinearLayout>

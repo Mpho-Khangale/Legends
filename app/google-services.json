@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917760743515",
+    "project_id": "legends-a1391",
+    "storage_bucket": "legends-a1391.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917760743515:android:ff0475f7073dc916e9c77e",
+        "android_client_info": {
+          "package_name": "com.example.legends"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVxsp4jI1cAyW56dIB1_jLT7rIyLEZo80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
